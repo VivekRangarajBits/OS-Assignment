@@ -17,7 +17,7 @@ You can build and run the application in many ways (depending on your environmen
    * then run `java -jar spring-boot2-web-thymeleaf-sample-X.Y.Z.jar` (*X.Y.Z* the real version numbers)
 
 #### 2) Using Maven to directly build&run the application<br>
-   From command line (in project's main directory):
+   From command line (in project's main directory):    
    * run `mvn spring-boot:run`
 
 #### 3) Using the Eclipse IDE
