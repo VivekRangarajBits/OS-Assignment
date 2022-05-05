@@ -62,6 +62,10 @@ public class AppInfoService {
         Team shweta = new Team("SHWETA JALAN", "2020MT93704");
         team.add(shweta);
         /*Adding Shweta as member - END*/
+            /*Adding Shweta as  member - START*/
+        Team jayasree = new Team("JAYASREE SANGEETHA", "2020MT93616");
+        team.add(jayasree);
+        /*Adding Jayasree as member - END*/
         appInfo.setTeam(team);
         return appInfo;
     }
